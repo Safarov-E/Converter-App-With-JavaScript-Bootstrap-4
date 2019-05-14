@@ -1,0 +1,21 @@
+body{
+  margin-top:70px;
+  background:#333;
+  color:#fff;
+}
+h4 {
+	color: #daffff;
+	padding: 10px;
+}
+#gramsOutput, #kgOutput, #ozOutput {
+	padding: 10px;
+}
+.card-primary {
+	background-color: #0070e0;
+}
+.card-success {
+	background-color: #55a95c;
+}
+.card-danger {
+	background-color: #e55f4d;
+}
